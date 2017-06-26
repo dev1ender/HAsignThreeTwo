@@ -8,6 +8,11 @@ HAsignThreeTwoFour is the java file of task 4 of the assignment 3.2.
 "Task 4 Output Screenshot: is the screen shot of the console of the eclipse
 Which takes two input and shows the result
  
+# Task 5:
+HAsignThreeTwoFive is the java file of the task two of the assignment 3.2.
+"Task 5 Output screenshot" is the screenshot of the of the console which shows the content of max-temp.txt file
+stored at the location /user/acadgild/hadoop/max-temp.txt in hdfs direcctory
+
  
 # Task 6:
 copy.jar is the jar file having HAsignThreeTwoSix as main method. FileTocpoy is the txt file that is to be copied to the hdfs file system . Task 6 Output Screenshot is the screen shot of the execution which include 
